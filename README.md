@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MercyIrene
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Mechatronics, and html on the side
+
 - 💞️ I’m looking to collaborate on any newbie projects, to gain experience
 - 📫 How to reach me. My email is mercyirene3@gmail.com
 
